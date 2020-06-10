@@ -1,2 +1,2 @@
 # pass_word_manager
-manage passwords
+manage passwords securely for users
